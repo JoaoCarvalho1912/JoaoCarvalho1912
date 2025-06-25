@@ -1,4 +1,5 @@
 Olá, sou o João Felipe! Seja bem-vindo ao meu Github!
+EN: Hi, I'm João Felipe! Welcome to my Github!
 
 <div>
   <a href="https://github.com/JoaoCarvalho1912"> 
